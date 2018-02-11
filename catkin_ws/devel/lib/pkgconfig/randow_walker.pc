@@ -1,0 +1,8 @@
+prefix=/home/chibike/catkin_ws/devel
+
+Name: randow_walker
+Description: Description of randow_walker
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/chibike/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/chibike/catkin_ws/devel
+
+Name: sound_bot
+Description: Description of sound_bot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/chibike/catkin_ws/devel/lib 
+Requires: 

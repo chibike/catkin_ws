@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/chibike/catkin_ws/install/setup.sh

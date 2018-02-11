@@ -1,0 +1,34 @@
+#include <conio.h>
+
+int kb_inkey()
+{
+    int rc;
+    int key;
+    
+    key = _kbhit();
+    
+    if (key == 0)
+    {
+        rc = 0;
+    }
+    else
+    {
+        rc = _getch();
+    }
+    
+    return rc;
+}
+
+
+int main()
+{
+    while (1)
+    {
+        if (kb_inkey() != 0)
+        {
+            break;
+        }
+    }
+    
+    return 0;
+}

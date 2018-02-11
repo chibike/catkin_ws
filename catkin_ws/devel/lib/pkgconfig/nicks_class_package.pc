@@ -1,0 +1,8 @@
+prefix=/home/chibike/catkin_ws/devel
+
+Name: nicks_class_package
+Description: Description of nicks_class_package
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/chibike/catkin_ws/devel/lib 
+Requires: 

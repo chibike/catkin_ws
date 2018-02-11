@@ -1,0 +1,8 @@
+prefix=/home/chibike/catkin_ws/install
+
+Name: practise_package
+Description: Description of practise_package
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/chibike/catkin_ws/install/lib 
+Requires: 

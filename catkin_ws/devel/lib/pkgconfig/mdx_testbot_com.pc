@@ -1,0 +1,8 @@
+prefix=/home/chibike/catkin_ws/devel
+
+Name: mdx_testbot_com
+Description: Description of mdx_testbot_com
+Version: 0.0.0
+Cflags: -I/home/chibike/catkin_ws/devel/include
+Libs: -L/home/chibike/catkin_ws/devel/lib 
+Requires: roscpp rospy std_msgs message_runtime

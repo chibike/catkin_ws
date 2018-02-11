@@ -1,0 +1,2 @@
+set(see_n_tell_MESSAGE_FILES "/home/chibike/catkin_ws/src/see_n_tell/msg/UInt8Array.msg;/home/chibike/catkin_ws/src/see_n_tell/msg/UInt16Array.msg;/home/chibike/catkin_ws/src/see_n_tell/msg/UInt32Array.msg;/home/chibike/catkin_ws/src/see_n_tell/msg/Int32Array.msg;/home/chibike/catkin_ws/src/see_n_tell/msg/Float32Array.msg;/home/chibike/catkin_ws/src/see_n_tell/msg/Float64Array.msg;/home/chibike/catkin_ws/src/see_n_tell/msg/ContourData.msg;/home/chibike/catkin_ws/src/see_n_tell/msg/TaggedObjects.msg")
+set(see_n_tell_SERVICE_FILES "")

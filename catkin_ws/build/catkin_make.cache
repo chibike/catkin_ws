@@ -1,0 +1,2 @@
+beginner_tutorials:mdx_testbot_com:practise_package:randow_walker:rover_simulation_pkg:rplidar_ros:see_n_tell:sound_bot:universal_robot/universal_robot:universal_robot/ur10_moveit_config:universal_robot/ur3_moveit_config:universal_robot/ur5_moveit_config:universal_robot/ur_bringup:universal_robot/ur_description:universal_robot/ur_driver:universal_robot/ur_gazebo:universal_robot/ur_kinematics:universal_robot/ur_msgs
+-DCATKIN_DEVEL_PREFIX=/home/chibike/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/chibike/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/chibike/catkin_ws/install
+
+Name: rover_simulation_pkg
+Description: Description of rover_simulation_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/chibike/catkin_ws/install/lib 
+Requires: 

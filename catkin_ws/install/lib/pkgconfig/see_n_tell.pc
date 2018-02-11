@@ -1,0 +1,8 @@
+prefix=/home/chibike/catkin_ws/install
+
+Name: see_n_tell
+Description: Description of see_n_tell
+Version: 0.0.0
+Cflags: -I/home/chibike/catkin_ws/install/include
+Libs: -L/home/chibike/catkin_ws/install/lib -lsee_n_tell
+Requires: message_runtime roscpp rospy std_msgs
